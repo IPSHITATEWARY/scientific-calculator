@@ -45,3 +45,4 @@ Perform the calculation.
 Push the result back onto the stack.
 
 The final value remaining on the stack is the result.
+https://github.com/IPSHITATEWARY/scientific-calculator/blob/main/Screenshot%202025-10-24%20075543.png
