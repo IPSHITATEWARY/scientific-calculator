@@ -78,6 +78,7 @@ Example conversion:
 
 Infix:   5 + 3 * 2
 Postfix: 5 3 2 * +
+
 ⚙️ 3. Evaluator Class (Result Calculation)
 
 This class evaluates the generated Postfix expression.
@@ -110,7 +111,6 @@ Step 5 → 5 + 6 = 11
 
 Final result → 11
 
-📷 Project Screenshot
 
 🛠 Tech Stack
 Technology	Purpose
